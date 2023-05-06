@@ -45,3 +45,17 @@ flex-direction: row;
     color: #5194E2;
     text-decoration: none;
 }
+
+
+/*Main content 1st part*/
+.first-section{
+    background-color: #D8D8D8;
+    display:flex;
+    padding:32px 24px;
+    
+}
+.media--1{
+    display:flex;
+    width: 60%;
+    margin-right:24px;
+}
